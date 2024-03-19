@@ -26,7 +26,7 @@ cd API-Automation/asana_api
 Create a virtual environment in the project directory. This environment will contain all the necessary Python packages for your project and keep them isolated from other projects.
 
 ```bash
-python3 -m venv venv
+python -m venv venv
 ```
 
 ### 3. Activate the Virtual Environment
